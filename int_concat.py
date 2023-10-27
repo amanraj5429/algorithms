@@ -1,3 +1,7 @@
+'''
+concat list items without using any buitin function or any module
+'''
+
 def int_concat(nums):
 
     if len(nums) == 0:
